@@ -1,4 +1,4 @@
-﻿//высокий 
+﻿//высокий  7
 Console.Write("Введите x");
 double x = double.Parse(Console.ReadLine());
 Console.Write("Введите y");
